@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  hw1.cpp
 //  computational hw
 //
 //  Created by Yujie Yi on 2024/4/15.
