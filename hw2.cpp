@@ -2,7 +2,7 @@
 //  main.cpp
 //  HW2_2
 //
-//  Created by 易钰洁 on 2024/5/7.
+//  Created by Yujie Yi on 2024/5/7.
 //
 
 #include <iostream>
